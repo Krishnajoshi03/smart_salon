@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62215627511",
+    "project_id": "my-project-d4810",
+    "storage_bucket": "my-project-d4810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62215627511:android:f4dadfb2840058b76729f2",
+        "android_client_info": {
+          "package_name": "com.example.smart_salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62215627511-4coj3j0b71fekaltmt6h1pcu6f0o603b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_salon",
+            "certificate_hash": "8da9ae3f470431c05490bb58f3c18cd408c3fcc8"
+          }
+        },
+        {
+          "client_id": "62215627511-bljbnp9c9gnh2ntkqab2otbe3tio9je6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlekJBA9tHyzqy4oHltQwP-y5yaAOCS5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62215627511-bljbnp9c9gnh2ntkqab2otbe3tio9je6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
